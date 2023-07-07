@@ -14,6 +14,7 @@ module.exports = {
         'primary-button': '#1d3f9a',
         'secondary-button': '#dcd4f7',
         'accent': '#3b1d9a',
+        'footer_background': '#02021e',
 
     },
   },
