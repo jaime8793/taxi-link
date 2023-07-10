@@ -7,6 +7,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'navbar_background': "url('../public/layered-waves-haikei (1).svg')",
+        'footer_background': "url('../public/14731307_rm218-bb-07.jpg')",
       },
       colors: {
         'text': '#06181e',
