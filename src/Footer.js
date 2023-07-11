@@ -10,10 +10,9 @@ const youtube = <FontAwesomeIcon icon={faYoutube} />;
 
 function Footer() {
   return (
-    <footer class="bg-footer_background text-white py-4 text-center">
-      <div class="float-left
-      ">
-      
+    <footer class="bg-footer_background text-white py-4 text-center w-full left-0 bottom-0 fixed
+    ">
+      <div class="float-left">
           <span class="text">Get the fastest news from Taxi-link</span>
           <div class="flex justify-center mt-4">
               <input type="text" placeholder="Enter your email address" class="px-4 py-2 w-1/2 rounded-l-md focus:outline-none"/>

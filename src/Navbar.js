@@ -37,7 +37,7 @@ const [show, setShow] = useState(true);
 
 
   return (
-    <div className={`fixed w-full z-10 transition-timing-function: cubic-bezier(0.4, 0, 1, 1) duration-500  ${show ? "top-0" : "-top-16"}`}>
+    <div className={`Container fixed pb-11 w-full z-10 transition-timing-function: cubic-bezier(0.4, 0, 1, 1) duration-500  ${show ? "top-0" : "-top-16"}`}>
         <nav class="bg-navbar_background bg-no-repeat bg-cover  top-0 w-full z-10
         ">
           <ul class=" flex justify-between items-center h-16 bg-transparent text-black relative shadow-sm font-mono">
